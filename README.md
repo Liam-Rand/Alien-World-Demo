@@ -6,14 +6,14 @@
 
 <br />
 
-The Corner Grocer App is a console application written in C++ and Python used for performing quantity calculations from a provided grocery list text file.
-Possible quantity calcuations include:
+The Alien World Demo was a project created to utilize and familiarize myself with the terrain tools available within Unreal Engine 4. 
+Some aspects of this project include: 
+  - Using multi-layered materials to paint the terrain
+  -  procedural 3D grass placement based on terrain layer
+  -  3D modelling of foliage and terrain obstacles
+  -  Creating a custom color profile for the world skybox to create an alien atmosphere
 
-- Calculating the frequency of each item from the grocery list text file.
-- Calculating the frequency of a single item from grocery list the text file.
-- Creating a histogram of quantities of each item grocery list from the text file.
-
-Througout the project, C++ was used to create the user interface and handle use input and Python was used for data management.
+There are some additional elements that were a part of this project, such as physics-based interactions and 3D audio, but the world building was the primary focus.
 </details> 
 
 <details open> 
