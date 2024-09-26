@@ -21,14 +21,10 @@ Througout the project, C++ was used to create the user interface and handle use 
 
 <br />
 
-The Corner Grocer App is a console application written in C++ and Python used for performing quantity calculations from a provided grocery list text file.
-Possible quantity calcuations include:
+<img align="left" alt="Visual Studio" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+<img align="left" alt="Visual Studio" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/>
+<img align="left" alt="Visual Studio" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 
-- Calculating the frequency of each item from the grocery list text file.
-- Calculating the frequency of a single item from grocery list the text file.
-- Creating a histogram of quantities of each item grocery list from the text file.
-
-Througout the project, C++ was used to create the user interface and handle use input and Python was used for data management.
 </details> 
 
 <details> 
