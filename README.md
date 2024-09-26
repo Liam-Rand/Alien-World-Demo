@@ -16,8 +16,6 @@ Possible quantity calcuations include:
 Througout the project, C++ was used to create the user interface and handle use input and Python was used for data management.
 </details> 
 
-<details> 
-  
 <details open> 
 <summary><h2>🛠️ Tools Used</h2></summary>
 
