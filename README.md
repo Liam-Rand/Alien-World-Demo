@@ -30,7 +30,7 @@ There are some additional elements that were a part of this project, such as phy
 </details> 
 
 <details open> 
-<summary><h2>🪞 Project Reflection</h2></summary>
+<summary><h2>🧠 Project Reflection</h2></summary>
 
 - How would you describe the process of creating and polishing the artifact?
   
