@@ -21,11 +21,11 @@ Througout the project, C++ was used to create the user interface and handle use 
 
 <br />
 
-<img align="center" alt="Unreal Engine" width="40px" style="padding-right:50px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"/> [Unreal Engine 4] - Primary Game Engine
+<img align="center" alt="Unreal Engine" width="40px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"/>  [Unreal Engine 4] - Primary Game Engine
 
-<img align="center" alt="Visual Studio" width="40px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/> [Blender] - 3D Modelling
+<img align="center" alt="Visual Studio" width="40px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/>  [Blender] - 3D Modelling
 
-<img align="center" alt="Git" width="40px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> [Git] - Source Control
+<img align="center" alt="Git" width="40px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>  [Git] - Source Control
 
 </details> 
 
