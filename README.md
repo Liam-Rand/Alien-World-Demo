@@ -32,23 +32,23 @@ There are some additional elements that were a part of this project, such as phy
 <details> 
 <summary><h2>🪞 Project Reflection</h2></summary>
 
-- What did you do particularly well?
+- How would you describe the process of creating and polishing the artifact?
   
-Overall, I feel that there was actually quite a bit that went well with this project. I am very happy with how the user interface printing and input handling turned out, as I was able to reuse the code for multiple projects. This allowed me to improve and refine the overall setup of this within the code with each project until it became very straightforwared to get new error-handled inputs and print menus, title, etc. to the console.
+I feel that creating and polishing this artifact was very enjoyable, as it really allowed me to use creativity and my imagination. For this project, I really wanted to focus on creating the atmosphere of a game level while also attempting to make all of the assets: such as sound, models, materials, and more, myself. I feel that I was really able to accomplish this, creating a very specific, alien-like atmosphere within the level, even though it is only a small demo area.
   
-- Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
+- What did you learn as you were creating it and improving it?
 
-One of the major ways that I feel I could enhance this code would be to take advantage of an object oriented architecture. I would do this by creating a class to handle individual grocery list objects: storing the name, quantity, etc. of the object. This would then allow me to more efficiently handle all of the items within the grocery list, especially if it does not change between actions. I would also add options to the program to load a new grocery list, preventing the program from having to load the same grocery list from the text file to perform a different calcuation.
+This project gave me a change to become more familiar with the terrain tools, materials, and sound effect tools within Unreal Engine 4. I was really excited to learn about the dynamic grass placement based on the material used within the terrain, as well as creating dynamic movement and gradients within a material using their material editor. Along with this, I was able to continue refining my skills within Blender, though I have already had quite a bit of experience using this tool in the past.
 
-- Which pieces of the code did you find most challenging to write, and how did you overcome this?
+- What challenges did you face?
 
-Overall, I do not believe I actually found any pieces of the code particularly challenging throughout the development of this project. A lot of the skills needed for this project had been covered in previous modules to a point that I believe the development process proceeded very smoothly throughout the completion of the entire project.
+Honestly, I feel that there were not really any challenges within this project, as it was heavily focused on just trying things out and having fun with it. Some things needed to be redesigned, as I did not like how they fit with the rest of the environment, but that was about as challenging as it got.
 
-- What skills from this project will be particularly transferable to other projects or course work?
+- How did you incorporate feedback as you made changes to the artifact?
 
-One of the main skills learned within this project that will be particularly transferrable to other projects or course work is the ability to interface with other programming languages. Doing this successfully creates a lot of potential within a project, as all programming languages have their own set of strengths and weaknesses. Doing this allows you to take advantage of one programming language's weakness that may be a different programming language's strength. You have to be careful when doing this though, as not all programming languages will work properly with each other or even be able to interface with each other at all.
+Similar to many of my other projects, feedback was incorporated by keeping a solid lane of communication open between me and the client, in this case a professor. As this was more of just a creative project, this required a minimal amount of feedback other than ensuring overall functionality of the artifact.
 
-- How did you make this program maintainable, readable, and adaptable?
+- How was the artifact improved?
 
-The main way that I attempted to make this program maintainable and adaptable was to make it as modular as possible. All different functions within the program are created as individual "modules" that can be linked together in a number of different ways. For example, any part of the program has the ability to quickly get a fully validated int input within a range of potential numbers by performing a single function call. This makes that programm extremely adaptable and extremely maintainable. To make the program readable, I made sure to use in-line comments wherever needed and followed industry-standard syntax and naming conventions for both C++ and Python, respectively.
+The artifact originally contained a terrain with materials applied and the UFOs placed around the map as cones. This artifact was improved by introducing fully materialled custom models to almost every aspect of the terrain and the objects placed around the terrain. Along with this, grass was added to the terrain that is dynamically placed based on the material used at that position on the terrain.
 </details> 
