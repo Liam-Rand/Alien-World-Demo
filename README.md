@@ -16,11 +16,9 @@ Some aspects of this project include:
 There are some additional elements that were a part of this project, such as physics-based interactions and 3D audio, but the world building was the primary focus.
 </details> 
 
-![](Screenshots/HighresScreenshot00001.png)
-
 <p float="left">
-  <img src="Screenshots/HighresScreenshot00001.png" width="49%" />
-  <img src="Screenshots/ScreenShot00000.png" width="49%" />
+  <img src="Screenshots/HighresScreenshot00001.png" width="52%" />
+  <img src="Screenshots/ScreenShot00000.png" width="46%" />
 </p>
 <p float="left">
   <img src="Screenshots/ScreenShot00001.png" width="49%" />
