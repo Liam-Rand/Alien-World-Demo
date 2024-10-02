@@ -16,6 +16,7 @@ Some aspects of this project include:
 There are some additional elements that were a part of this project, such as physics-based interactions and 3D audio, but the world building was the primary focus.
 </details>
 
+<br/>
 
 <p float="left">
   <img src="Screenshots/HighresScreenshot00001.png" width="52%" />
