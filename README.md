@@ -19,9 +19,12 @@ There are some additional elements that were a part of this project, such as phy
 ![](Screenshots/HighresScreenshot00001.png)
 
 <p float="left">
-  <img src="Screenshots/HighresScreenshot00001.png" width="33%" />
-  <img src="Screenshots/HighresScreenshot00001.png" width="33%" />
-  <img src="Screenshots/HighresScreenshot00001.png" width="33%" />
+  <img src="Screenshots/HighresScreenshot00001.png" width="49%" />
+  <img src="Screenshots/ScreenShot00000.png" width="49%" />
+</p>
+<p float="left">
+  <img src="Screenshots/ScreenShot00001.png" width="49%" />
+  <img src="Screenshots/ScreenShot00002.png" width="49%" />
 </p>
 
 <details open> 
