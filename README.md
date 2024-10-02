@@ -58,7 +58,7 @@ There are some additional elements that were a part of this project, such as phy
   <img src="Screenshots/Screenshot 2023-12-14 020100.png" width="49%" />
   <img src="Screenshots/Screenshot 2023-12-14 020127.png" width="49%" />
 </p>
-<p float="center">
+<p align="center">
   <img src="Screenshots/Screenshot 2023-12-14 020127.png" width="49%" />
 </p>
 
@@ -87,5 +87,5 @@ The artifact originally contained a terrain with materials applied and the UFOs 
 </details> 
 
 <p align="center">
-  <img src="LiamRandLogo.png" width="30%" />
+  <img src="LiamRandLogo.png" width="10%" />
 </p>
