@@ -43,9 +43,9 @@ There are some additional elements that were a part of this project, such as phy
 <br />
 
 <p float="left">
-  <img src="Screenshots/HighresScreenshot00000.png" width="37%" />
-  <img src="Screenshots/Screenshot 2023-12-14 015848.png" width="31%" />
-  <img src="Screenshots/Screenshot 2023-12-14 015917.png" width="31%" />
+  <img src="Screenshots/HighresScreenshot00000.png" width="35%" />
+  <img src="Screenshots/Screenshot 2023-12-14 015848.png" width="32%" />
+  <img src="Screenshots/Screenshot 2023-12-14 015917.png" width="32%" />
 </p>
 <p float="left">
   <img src="Screenshots/Screenshot 2023-12-14 015942.png" width="33%" />
