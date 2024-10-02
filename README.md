@@ -14,7 +14,8 @@ Some aspects of this project include:
   -  Creating a custom color profile for the world skybox to create an alien atmosphere
 
 There are some additional elements that were a part of this project, such as physics-based interactions and 3D audio, but the world building was the primary focus.
-</details> 
+</details>
+
 
 <p float="left">
   <img src="Screenshots/HighresScreenshot00001.png" width="52%" />
