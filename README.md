@@ -18,6 +18,12 @@ There are some additional elements that were a part of this project, such as phy
 
 ![](Screenshots/HighresScreenshot00001.png)
 
+<p float="left">
+  <img src="Screenshots/HighresScreenshot00001.png" width="33%" />
+  <img src="Screenshots/HighresScreenshot00001.png" width="33%" />
+  <img src="Screenshots/HighresScreenshot00001.png" width="33%" />
+</p>
+
 <details open> 
 <summary><h2>🛠️ Tools Used</h2></summary>
 
