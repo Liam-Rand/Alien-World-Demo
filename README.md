@@ -19,8 +19,8 @@ There are some additional elements that were a part of this project, such as phy
 <br/>
 
 <p float="left">
-  <img src="Screenshots/HighresScreenshot00001.png" width="52%" />
-  <img src="Screenshots/ScreenShot00000.png" width="46%" />
+  <img src="Screenshots/HighresScreenshot00001.png" width="49%" />
+  <img src="Screenshots/ScreenShot00000.png" width="49%" />
 </p>
 <p float="left">
   <img src="Screenshots/ScreenShot00001.png" width="49%" />
