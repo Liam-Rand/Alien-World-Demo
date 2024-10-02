@@ -58,7 +58,7 @@ There are some additional elements that were a part of this project, such as phy
   <img src="Screenshots/Screenshot 2023-12-14 020100.png" width="49%" />
   <img src="Screenshots/Screenshot 2023-12-14 020127.png" width="49%" />
 </p>
-<p float="left">
+<p float="center">
   <img src="Screenshots/Screenshot 2023-12-14 020127.png" width="49%" />
 </p>
 
