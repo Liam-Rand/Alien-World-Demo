@@ -85,3 +85,7 @@ Similar to many of my other projects, feedback was incorporated by keeping a sol
 
 The artifact originally contained a terrain with materials applied and the UFOs placed around the map as cones. This artifact was improved by introducing fully materialled custom models to almost every aspect of the terrain and the objects placed around the terrain. Along with this, grass was added to the terrain that is dynamically placed based on the material used at that position on the terrain.
 </details> 
+
+<p float="left">
+  <img src="LiamRandLogo.png" width="30%" />
+</p>
