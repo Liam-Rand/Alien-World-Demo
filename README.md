@@ -18,7 +18,14 @@ Some aspects of this project include:
 
 There are some additional elements that were a part of this project, such as physics-based interactions and 3D audio, but the world building was the primary focus.
 
+<br />
+
+<h2>🎥 Project Videos</h2>
 https://www.youtube.com/watch?v=GVoKFiD4At8
+
+<h2>📦 Project Repository</h2>
+This project was originally created using Bitbucket for source control! <br />
+To can access the original repository here: https://bitbucket.org/Liam_Rand/rand_alienworldportfolio/src/master/ 
 </details>
 
 <br/>
